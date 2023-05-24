@@ -15,16 +15,14 @@ export default function Home() {
 						color="#f0f0f0"
 						borderTopRadius="10"
 					>
-						<Heading size="md">Example</Heading>
+						<Heading size="md">In Progress...</Heading>
 					</CardHeader>
 					<CardBody>
 						<Text color="#1A1E1E">
-							This is some example text lmao
+							This Card Is A Placeholder For What Will Eventually
+							Be My Portfolio
 						</Text>
 					</CardBody>
-					<CardFooter>
-						<Text>why is this called a footer</Text>
-					</CardFooter>
 				</Card>
 			</Providers>
 		</div>
